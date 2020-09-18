@@ -426,15 +426,6 @@
     --user-background: url('https://cdn.discordapp.com/attachments/534880602034274314/556828876341379092/SPOILER_Anime_4.png');
 }
 
-
-/*creatable#0123*/
-
-[user_by_bdfdb*="597905003717459968"],
-[data-user-id*="597905003717459968"] {
-    --user-background: url('https://i.imgur.com/h2Vudr7.png');
-}
-
-
 /*JustMrRobBoss#1514*/
 
 [user_by_bdfdb*="194474365646012416"],
@@ -2542,12 +2533,4 @@
 [user_by_bdfdb*="371581535801049089"],
 [data-user-id*="371581535801049089"] {
    --user-background: url('https://i.imgur.com/yUKJgg1.png');
-}
-
-/*creatable#0123*/
-
-[user_by_bdfdb*="597905003717459968"],
-[data-user-id*="597905003717459968"] {
-    --user-background: url('https://i.imgur.com/hXCcfSP.gif');
-    --user-popout-position: center !important;
 }
